@@ -1,0 +1,3 @@
+F:\work\code\NetCore\NetCore\NetCoreWebApp1\obj\Debug\netcoreapp2.1\NetCoreWebApp1.csproj.CoreCompileInputs.cache
+F:\work\code\NetCore\NetCore\NetCoreWebApp1\obj\Debug\netcoreapp2.1\NetCoreWebApp1.AssemblyInfoInputs.cache
+F:\work\code\NetCore\NetCore\NetCoreWebApp1\obj\Debug\netcoreapp2.1\NetCoreWebApp1.AssemblyInfo.cs
