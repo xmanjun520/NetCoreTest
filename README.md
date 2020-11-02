@@ -1,0 +1,2 @@
+# NetCoreTest
+12345
